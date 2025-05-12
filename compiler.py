@@ -1,6 +1,6 @@
 """
 @author: PythonDeveloper29042
-@date:
+@date: 2025-05-12
 @name: compiler.py
 @description: A simple compiler for PythonCN
 """
